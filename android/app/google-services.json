@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370894598690",
+    "firebase_url": "https://manivadigital.firebaseio.com",
+    "project_id": "manivadigital",
+    "storage_bucket": "manivadigital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370894598690:android:788e29af5e43432969907b",
+        "android_client_info": {
+          "package_name": "com.manivadigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370894598690-c49p4lsdffcpiofa4925tkujh4flbu38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manivadigital",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "370894598690-feq33qk1so384f79b5j6chms4udc8mta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOZsvhni5fEtDN0sM5t7vBNOTXQhTEsjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370894598690-feq33qk1so384f79b5j6chms4udc8mta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
