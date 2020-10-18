@@ -27,11 +27,15 @@ export default SocialButton;
 const styles = StyleSheet.create({
   buttonContainer: {
     marginTop: 10,
-    width: '100%',
+    width: '60%',
+    bottom: 0,
     height: windowHeight / 15,
-    padding: 10,
+    padding: 0,
+    left: 0,
+    justifyContent: 'center',
+    alignItems: 'center',
     flexDirection: 'row',
-    borderRadius: 3,
+    borderRadius: 60,
   },
   iconWrapper: {
     width: 30,
@@ -47,7 +51,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   buttonText: {
+    justifyContent: 'center',
+    alignItems: 'center',
     fontSize: 18,
+    right: 13,
     fontWeight: 'bold',
     fontFamily: 'Lato-Regular',
   },

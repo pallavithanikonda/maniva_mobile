@@ -56,7 +56,7 @@ const AuthStack = () => {
             shadowColor: '#f9fafd',
             elevation: 0,
           },
-          headerLeft: () => <View style={{marginLeft: 10}}></View>,
+          header: () => null,
         })}
       />
     </Stack.Navigator>
