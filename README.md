@@ -1,3 +1,8 @@
+
+
+Credits: https://github.com/Muhammad-GH/Maniva
+
+
 # Maniva
 Assignment project for Maniva in react-native
 
@@ -33,7 +38,6 @@ Assignment project for Maniva in react-native
 
 
 Build from the App has been tested on 2 Devices  using Android Version 10 .
-
 
 # Tech Details 
 Assignment is built with React-Native and number of other resources to work properly:
