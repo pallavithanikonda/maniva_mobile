@@ -41,13 +41,16 @@ Assignment is built with React-Native and number of other resources to work prop
 [react-native] - build using this library
 [react-navigation] - navigation package for react-native
 [native-base] - native components for both OS.
-[react-native-video] - video player for react-native
+
+
 Installation
-Assignment-SwimCam requires Node.js v4+ to run.
+Assignment requires Node.js v4+ to run.
 
 
 Clone the repo and install the dependencies and devDependencies and start the server.
 
 $ cd Maniva
+
 $ npm install 
+
 $ npx react-native run-android (for android)
